@@ -12,6 +12,13 @@
 
 <div class="jumbotron text-center">
   <h1>My First Bootstrap Page</h1>
+  
+  <?php
+echo "Today is " . date("Y/m/d") . "<br>";
+echo "Today is " . date("Y.m.d") . "<br>";
+echo "Today is " . date("Y-m-d") . "<br>";
+echo "Today is " . date("l");
+?>
   <p>PHP version is 
   
   <?php echo phpinfo(); ?>
