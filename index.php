@@ -12,7 +12,7 @@
 
 <div class="jumbotron text-center">
   <h1>My First Bootstrap Page</h1>
-    <h3>2 web app from same github</h3>
+    <h3>2 web app from same github. Yahoo</h3>
   
   <?php
 echo "Today is " . date("Y/m/d") . "<br>";
