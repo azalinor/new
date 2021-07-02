@@ -11,7 +11,7 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>My First Bootstrap Page</h1>
+  <h1>My First GITHUB NEW Page</h1>
     <h3>2 web app from same github. Yahoo</h3>
   
   <?php
